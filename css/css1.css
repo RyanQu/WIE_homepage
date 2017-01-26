@@ -1,0 +1,11 @@
+@charset "utf-8";
+@import url( "/code/css/tianji_ico.css" );
+/* CSS Document */
+#ckepop   dl, #ckepop dt, #ckepop dd, #ckepop ol, #ckepop ul, #ckepop li, #ckepop fieldset, #ckepop form, #ckepop label, #ckepop legend, #ckepop table, #ckepop caption, #ckepop tbody, #ckepop tfoot, #ckepop thead, #ckepop tr, #ckepop th, #ckepop td, #ckepop span {vertical-align:middle;margin:0;padding:0;}
+#ckepop  .jiadiv_01{border:#CCCCCC solid 1px; width:240px;background:#ffffff;text-align:left;overflow:hidden;}
+#ckepop  .jiadiv_02{padding:1px!important; font-size:14px!important; text-align:left!important;}
+#ckepop  .jiadiv_02 .jiatitle{margin:1px 0;height:22px;padding-left:5px;padding-top:1px;width:107px;float:left;display:block;border:1px solid #ffffff;background:#ffffff;text-decoration:none;color:#000000;font-size:12px!important;}
+#ckepop  .jiadiv_02 .jiatitle:hover{background:#F2F2F2;border:1px solid #E5E5E5;text-decoration:none;}
+#ckepop  .jiadiv_02 .jiatitle img{margin:3px 0 -3px 0;border:0;}
+#ckepop  .jiadiv_01 .link_01{text-decoration:none; font-size:12px}
+#ckepop  .jiadiv_01 .link_01:hover{text-decoration:underline; font-size:12px}

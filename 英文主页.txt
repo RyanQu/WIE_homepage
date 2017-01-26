@@ -1,0 +1,22 @@
+标题栏：Home， Briefing，Projects Area，Members, Research Experience, About us.
+
+
+
+工作坊简介
+工作坊基本情况：
+
+管理-电子工程复合培养实验班创新创业工作坊
+
+电子科技大学管理-电子工程复合培养实验班创新创业工作坊创建于2009年，位于清水河校区经管楼A404室，总面积123平方米，是经管学院下辖的本科生开放实验室，用于学生在电子信息工程、电子商务、移动互联网等领域的实践和创新活动。先后一百余名学生在这里累积了工程实践经验，获得了实现创意的机会。
+
+目前，创新创业工作坊的常设团队规模十余人，涉及的实践方向包括电子设计、智能控制、电子商务以及移动互联网等领域。团队秉承实验班管理技术复合的概念，将经管相关知识与电子技术相结合。正在进行或已经完成的项目涵盖了电子信息技术、嵌入式系统、手机移动开发和互联网开发等方向。
+
+根据复合培养班的培养方案以及学生的相关需求，学院于2009年投资建设了电子信息工程方向的开放自主型创新实验室：创新创业工作坊。基于复合实验班的特殊情况，该实验室采取学生自主管理的方式：自主设计实验，自主邀请专业导师进行指导，自主完成实验。为将管理和电子技术结合起来，创新创业工作坊建立了一套相关制度，从而达到学生自我管理的目的。
+
+创新创业工作坊电子工程方向大致分为两个部分：控制和测量。主要进行的实验有均衡放大电路系统、测量放大器、乘法电路设计、信号参数分析仪、波形分析电路、单向AC-DC变换电路、射频宽带放大器、手写绘图板等。工作坊该方向的同学多次参加国家和省级电子设计比赛并获奖，取得了不俗的成绩。
+
+创新创业工作坊于2011年开设了移动开发方向，主攻安卓平台开发。后经过两年的摸索和开拓，逐渐形成了覆盖性极广的互联网方向。目前创新创业工作坊互联网方向所覆盖的方向有：安卓移动开发、iOS移动开发、网页设计、JAVA WEB开发、数据挖掘和桌面应用程序。
+
+The Work Zone of Innovation and Entrepreneurship of Management-Electronic Engineering Dual Degree Program
+
+The Work Zone of Innovation and Entrepreneurship of UESTC,established in 2009 with an area of 123 square meters, is located in Room A404，School of Management and Economics(SME) Building. According to the educational objective of the Dual Degree Program and the demands of students. SME invested and constructed an open and autonomous innovation work zone. In the work zone, the students manage themselves by designing their own experimentation, inviting professional instructors for guidance, and accomplishing the experimentation. In order to combine management and electronic technology, a set of management rules and regulations have been established for the work zone. The main experimentations include Balanced Amplifier Circuit System, Measurement Amplifier, Multiplier Circuit Design, Signal Parameter Analyzer, Waveform Analysis Circuit, Single Phase AC-DC Inverter, Wide-band Radio Frequency Power Amplifier, and Pen Tablets. Moreover, students of the work zone have participated in national and provincial competitions and have obtained lots of prizes.
